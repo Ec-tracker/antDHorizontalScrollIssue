@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "react-dom": "18.x",
+    "react": "18.x",
+    "dayjs": "latest",
+    "antd": "^5.0.0-rc.1"
+  },
+  "keywords": [],
+  "name": "antd-table-horizontal-scroll-lag-spike-forked",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

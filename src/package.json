@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "react-dom": "18.x",
+    "react": "18.x",
+    "dayjs": "latest",
+    "antd": "^5.0.0-rc.1"
+  },
+  "keywords": [],
+  "name": "antd-table-horizontal-scroll-lag-spike",
+  "description": ""
+}
